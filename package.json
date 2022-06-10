@@ -1,6 +1,6 @@
 {
-  "name": "globalmodules",
-  "version": "1.0.0",
+  "name": "node-globalmodules",
+  "version": "1.0.1",
   "description": "Package for have a global node_modules folder!",
   "main": "index.js",
   "repository": {
