@@ -1,0 +1,28 @@
+{
+  "name": "globalmodules",
+  "version": "1.0.0",
+  "description": "Package for have a global node_modules folder!",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alekitopi/node-globalmodules.git"
+  },
+  "keywords": [
+    "global",
+    "modules",
+    "folder",
+    "node",
+    "node_modules"
+  ],
+  "author": "alekitopi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alekitopi/node-globalmodules/issues"
+  },
+  "homepage": "https://github.com/alekitopi/node-globalmodules#readme",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "os": "^0.1.2",
+    "path": "^0.12.7"
+  }
+}
